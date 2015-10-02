@@ -1,6 +1,4 @@
-encrypt
-
-This is the implementation in C of the classic encryption alphabet "Vinegere".
+This is a simple implementation in C of the classic encryption alphabet "Vinegere".
 
 Vinegere is a simple form of polyalphabetic substitution cipher that makes use of a series of different Ceasar ciphers, based on a keyword.
 
